@@ -1,6 +1,9 @@
 ## Hi there 👋
 ## GitHub Stats
-![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikalrafifas&show_icons=true&theme=merko)
+![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikalrafifas&show_icons=true&theme=merko) 
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko)
 <!--
 **galang72/galang72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
