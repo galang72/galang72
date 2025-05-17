@@ -54,7 +54,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ### GitHub Stats  
 ![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 
 "Keep learning, keep coding!"
