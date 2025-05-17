@@ -33,16 +33,3 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 |DevOps|![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux) ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker) ![GitHub Actions](https://img.shields.io/badge/github_actions-black?style=for-the-badge&logo=github-actions)|
 
 
-### GitHub Stats  
-![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
-
-### Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=blue)
-
----
-
-"Keep learning, keep coding!"
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
