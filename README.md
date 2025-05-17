@@ -14,10 +14,20 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-### GitHub Stats  
-![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 💡 Technologies and Expertise
 |Category|Technologies|
