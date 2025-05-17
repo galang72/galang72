@@ -19,8 +19,6 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
 
-### Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=blue)
 
 
 
