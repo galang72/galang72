@@ -3,11 +3,7 @@
 Hey there! I'm Galang, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/)
-
-### Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=blue)
-
+[![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/) <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ---
 
