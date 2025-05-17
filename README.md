@@ -41,8 +41,8 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-## 💡 Technologies and Expertise
-|Category|Technologies|
+## 💡 Kode bukan hanya sekedarperintah, tapi seni yang berbicara
+
 |--|--|
 |Frontend Development|[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://camo.githubusercontent.com/3dc37957a3775a90d930e4c8e28bcf1851b1b42a0849fabf1b2cd6743e03330a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67616c616e673732266c61796f75743d646f6e7574267468656d653d6d65726b6f) [![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/haikalrafifas?tab=repositories&language=javascript) [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/haikalrafifas?tab=repositories&language=javascript)|
 |Backend Development|[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/haikalrafifas?tab=repositories&language=php) [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/haikalrafifas?tab=repositories&language=php) [![CodeIgniter](https://img.shields.io/badge/codeigniter-black?style=for-the-badge&logo=codeigniter)](https://github.com/haikalrafifas?tab=repositories&language=php) [![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/haikalrafifas?tab=repositories&language=javascript) [![ExpressJS](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/haikalrafifas?tab=repositories&language=javascript) [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/haikalrafifas?tab=repositories&language=go) [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/haikalrafifas?tab=repositories&language=java)|
