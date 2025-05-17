@@ -5,6 +5,45 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/)
 
+<div align="center">
+  
+  <!-- GIF animasi -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+  <!-- Typing text animasi -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFBF&center=true&vCenter=true&width=500&lines=Halo+Saya+Galang72!;Selamat+Datang+di+GitHub+Saya!" />
+
+  <!-- Badge profile views -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=green)
+
+</div>
+
+---
+
+## 📊 My Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=merko" alt="Galang72's GitHub Stats" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko" alt="Top Languages" width="350"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ✨ Quote of The Day  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ## 💡 Technologies and Expertise
 |Category|Technologies|
 |--|--|
