@@ -12,6 +12,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ---
 
 "Keep learning, keep coding!"
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ## 📊 My Stats
