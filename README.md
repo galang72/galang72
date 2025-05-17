@@ -27,7 +27,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
       <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=merko" alt="Galang72's GitHub Stats" width="520"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko" alt="Top Languages" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko" alt="Top Languages" width="350"/>
     </td>
   </tr>
 </table>
