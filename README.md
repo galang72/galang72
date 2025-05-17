@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+zz# Welcome to My GitHub Profile! 🚀
 
 Hey there! I'm Galang lian kagura, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
 
@@ -17,7 +17,7 @@ Hey there! I'm Galang lian kagura, a Software Developer with years of hands-on e
 
 ## 📊 My Stats
 <a href="https://github.com/galang72?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haikalrafifas&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Galanglk&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/galang72?tab=repositories">
   <img align="center" src="https://camo.githubusercontent.com/0c25ac7219a939ef469729be6adf4d13e3c0d3d2bfe978eac9b0975730940198/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6861696b616c726166696661732673686f775f69636f6e733d74727565267468656d653d6d65726b6f" height="195" />
