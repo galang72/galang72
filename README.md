@@ -51,8 +51,6 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 |Versatile|[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/haikalrafifas?tab=repositories&language=python)|
 |DevOps|![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux) ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker) ![GitHub Actions](https://img.shields.io/badge/github_actions-black?style=for-the-badge&logo=github-actions)|
 
-### GitHub Stats  
-![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
