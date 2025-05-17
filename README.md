@@ -7,9 +7,6 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 <div align="center">
   
-  <!-- GIF animasi -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
   <!-- Typing text animasi -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFBF&center=true&vCenter=true&width=500&lines=Halo+Saya+Galang72!;Selamat+Datang+di+GitHub+Saya!" />
 
