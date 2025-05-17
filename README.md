@@ -11,7 +11,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFBF&center=true&vCenter=true&width=500&lines=Halo+Saya+Galang72!;Selamat+Datang+di+GitHub+Saya!" />
 
   <!-- Badge profile views -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=green)
+  ![Profile Views](https://komarev.com/ghpvc/?username=galanglk&color=green)
 
 </div>
 
