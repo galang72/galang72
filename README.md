@@ -12,17 +12,21 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 "Keep learning, keep coding!"
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+## 📊 My Stats
 
 <div align="center">
+
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=merko" alt="Galang72's GitHub Stats" width="420"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko" alt="Top Languages" width="350"/>
     </td>
   </tr>
+</table>
+
 </div>
 
 ## 💡 Technologies and Expertise
