@@ -3,18 +3,7 @@
 Hey there! I'm Galang, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/) <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
----
-
-"Keep learning, keep coding!"
-
-
-### GitHub Stats  
-![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/)
 
 ## 💡 Technologies and Expertise
 |Category|Technologies|
@@ -25,5 +14,17 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 |IoT Integration|[![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/haikalrafifas?tab=repositories&language=c)|
 |Versatile|[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/haikalrafifas?tab=repositories&language=python)|
 |DevOps|![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux) ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker) ![GitHub Actions](https://img.shields.io/badge/github_actions-black?style=for-the-badge&logo=github-actions)|
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+---
+
+"Keep learning, keep coding!"
+
+
+### GitHub Stats  
+![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
+
 
 
