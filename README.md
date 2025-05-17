@@ -8,6 +8,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ### Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=galang72&color=blue)
 
+
 ---
 
 "Keep learning, keep coding!"
