@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🚀
 
-Hey there! I'm Haikal Rafif, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
+Hey there! I'm Galang lian kagura, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/@-linkedin-blue?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/galang-lk-b9237a366/)
