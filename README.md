@@ -14,6 +14,10 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
+### GitHub Stats  
+![Galang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=tokyonight)
 
 ## 💡 Technologies and Expertise
 |Category|Technologies|
