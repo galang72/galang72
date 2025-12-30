@@ -24,8 +24,8 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
     <td>
       <img
         src="https://stats-github-readme.vercel.app/api?username=galang72&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
-        width="450"
-        height="200"
+        width="420"
+        height="400"
       />
     </td>
     <td>
