@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+ c# Welcome to My GitHub Profile! 🚀
 
 Hey there! I'm Galang, a Software Developer with years of hands-on experience in Full Stack Development, DevOps, and IoT Integration. Skilled in building end-to-end solutions that enhance performance and user experience. Passionate about leveraging technology to create innovative, scalable, and secure systems.
 
@@ -20,8 +20,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 ## 📊 My Stats
 
 ![Stats](https://stats-github-readme.vercel.app/api?username=galang72)
-
-
+![Top Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=galang72&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&border_color=00ff00)
 
 
 
