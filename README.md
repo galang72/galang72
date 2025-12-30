@@ -21,7 +21,7 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ![Stats](https://stats-github-readme.vercel.app/api?username=galang72)
 
-![Top Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=galang72)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=compact&langs_count=6)
 
 ---
 
