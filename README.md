@@ -19,7 +19,8 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true)
+![Stats](https://stats-github-readme.vercel.app/api?username=galang72)
+
 
 
 
