@@ -19,13 +19,9 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ## 📊 My Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true)
 
 
----
-
-## 👁 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=galang72)
 
 
 ---
