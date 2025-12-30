@@ -19,8 +19,22 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ## 📊 My Stats
 
-![My Stats](https://stats-github-readme.vercel.app/api?username=galang72&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00)
-![Top Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=galang72&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&border_color=00ff00)
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://stats-github-readme.vercel.app/api?username=galang72&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://stats-github-readme.vercel.app/api/top-langs/?username=galang72&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&border_color=00ff00"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
