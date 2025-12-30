@@ -22,7 +22,6 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 <div align="center">
 
 <table>
-  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=merko" alt="Galang72's GitHub Stats" width="520"/>
     </td>
