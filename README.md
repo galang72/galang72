@@ -19,15 +19,16 @@ Hey there! I'm Galang, a Software Developer with years of hands-on experience in
 
 ## 📊 My Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=galang72&show_icons=true&theme=merko" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=compact)
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang72&layout=donut&theme=merko" />
+## 👁 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=galang72)
 
-</div>
+
 ---
 
 ## ✨ Quote of The Day  
